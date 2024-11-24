@@ -1,0 +1,20 @@
+.success-message {
+    background-color: #66a27d;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
